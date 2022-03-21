@@ -6,7 +6,7 @@ theme: freshstart
 params:
   author: Jacob Rodal
   description: Jacob Rodal Startpage
-  favicon: /favicon.ico
+  favicon: /startpage/favicon.ico
 
   searchEngines:
     - name: Brunnylol
