@@ -1,0 +1,3 @@
+[submodule "themes/freshstart"]
+	path = themes/freshstart
+	url = git@github.com:jrodal98/hugo-theme-freshstart.git
