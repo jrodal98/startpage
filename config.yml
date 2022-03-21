@@ -1,12 +1,12 @@
 baseURL: "https://jrodal98.github.io/startpage/"
 languageCode: en-us
-title: Jacob Rodal Startpage
+title: Startpage
 theme: freshstart
 
 params:
   author: Jacob Rodal
   description: Jacob Rodal Startpage
-  favicon: /favicon.png
+  favicon: /favicon.ico
 
   searchEngines:
     - name: Brunnylol
@@ -66,12 +66,6 @@ params:
         - name: Pihole
           url: http://192.168.0.199/admin
           icon: fa fa-ban
-
-
-
-
-
-
 
     - group: Home
       icon: fa fa-home
